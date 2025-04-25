@@ -12,17 +12,14 @@ So here is a basic fix where your bot can detect the messages in a component, an
 
 ## Step 1:
 First things first, you will need to use the **test version** of discord.py, which you can install using:
-
 ```py -m pip install -U git+https://github.com/DA-344/d.py@feat/components-v2```
 
 ## Step 2:
 After that, you can clone this repository using
-
 ```git clone https://github.com/Evanroby/components-v2-fix.git```
 
 ## Step 3:
 In your terminal, run the following command:
-
 ```py main.py```
 
 > [!NOTE] 
